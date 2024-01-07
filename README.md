@@ -8,5 +8,4 @@ The goal is to create an AI-powered bot that can play chess effectively against 
 The chess bot is implemented using:
 
 - **Programming Language:** Python
-- **Algorithm:** My very own algorithm
-- **Interface:** pygame used to generate game
+- **Libraries:** Pygame library used to create Engine
